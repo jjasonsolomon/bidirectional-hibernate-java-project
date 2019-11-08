@@ -1,2 +1,2 @@
-# MappingProject
+# BidirectionalProject
 Hibernate Mapping Project
